@@ -1,5 +1,7 @@
 #include <ForceField_kernels.h>
 
+//test 2 pour Git
+
 using namespace sofa::defaulttype;
 
 void TetrahedronFEMForceField3f_initialize( TVecVec3 & positions0, TVecTetra & tetrahedra, TReal youngModulus, TReal poissonRatio, std::vector<Element> & elems)
